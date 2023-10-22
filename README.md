@@ -19,7 +19,6 @@ Para a instalação dessas dependências, execute o comando:
 
 Para mais informações sobre, acesse: https://docs.cypress.io/guides/continuous-integration/introduction#UbuntuDebian.
 
-```
 
 ## Instalação
 
@@ -42,4 +41,4 @@ Ou, execute `npm run cy:open` para abrir o Cypress no modo interativo.
 Execute `npm run test:mobile` para executar o teste no modo headless.
 
 Ou, execute `npm run cy:open:mobile` para abrir o Cypress no modo interativo.
-```
+
